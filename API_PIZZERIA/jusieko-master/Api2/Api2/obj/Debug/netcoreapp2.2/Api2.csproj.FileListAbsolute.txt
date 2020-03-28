@@ -1,0 +1,16 @@
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.deps.json
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.runtimeconfig.json
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.runtimeconfig.dev.json
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.dll
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.csprojAssemblyReference.cache
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorAssemblyInfo.cache
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorAssemblyInfo.cs
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.AssemblyInfoInputs.cache
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.AssemblyInfo.cs
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.RazorTargetAssemblyInfo.cache
+C:\Users\janos\source\repos\Api2\Api2\bin\Debug\netcoreapp2.2\Api2.pdb
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.dll
+C:\Users\janos\source\repos\Api2\Api2\obj\Debug\netcoreapp2.2\Api2.pdb

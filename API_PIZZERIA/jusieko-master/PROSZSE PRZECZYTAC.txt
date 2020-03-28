@@ -1,0 +1,2 @@
+Musze 11/12 przy tworzeniu backendu okazalo sie ze muszeskorygowac
+model bazy w vertabelo. Wrzuce ja do konca tygodnia
